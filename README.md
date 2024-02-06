@@ -32,11 +32,3 @@ This corpus has been collected from free or free for research sources on the Int
 The original dataset can be found [here](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkQuickLabsAdvanced_ML_DL_spam_classification_L427910497-2022-01-01). The creators would like to note that in case you find the dataset useful, please, make a reference to the previous paper and the [web page](http://www.dt.fee.unicamp.br/\~tiago/smsspamcollection/) in your papers, research, etc.
 
 This work presents a number of statistics, studies and baseline results for a few machine learning methods.
-
-***
-
-Almeida, T.A., GÃ³mez Hidalgo, J.M., Yamakami, A. Contributions to the Study  of SMS Spam Filtering: New Collection and Results. Proceedings of the 2011 ACM Symposium on Document Engineering (DOCENG'11), Mountain View, CA, USA, 2011.
-
-***
-
-In addition, we will build a visualization of our results, specifically the obtained metrics (accuracy and loss), to choose the best model for further saving and forecasting based on this saved model.
