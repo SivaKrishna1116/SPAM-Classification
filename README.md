@@ -32,3 +32,12 @@ This corpus has been collected from free or free for research sources on the Int
 The original dataset can be found [here](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkQuickLabsAdvanced_ML_DL_spam_classification_L427910497-2022-01-01). The creators would like to note that in case you find the dataset useful, please, make a reference to the previous paper and the [web page](http://www.dt.fee.unicamp.br/\~tiago/smsspamcollection/) in your papers, research, etc.
 
 This work presents a number of statistics, studies and baseline results for a few machine learning methods.
+
+
+# Import required libraries and dataset
+
+You can find the main file of the dataset by this link: [https://www.kaggle.com/uciml/sms-spam-collection-dataset?select=spam.csv](https://www.kaggle.com/uciml/sms-spam-collection-dataset?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkQuickLabsAdvanced_ML_DL_spam_classification_L427910497-2022-01-01&select=spam.csv)
+
+Alternative URL for downloading of the dataset.
+
+!wget https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/Advanced_ML_DL_spam_classification_L4/spam.csv
